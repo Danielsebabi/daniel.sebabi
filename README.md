@@ -1,14 +1,14 @@
 # daniel.sebabi
 porfolio IT Network Administrator
-# 👋 Bonjour, je suis Daniel Sebabi
+#  Bonjour, je suis Daniel Sebabi
 
-🎓 **Licencié en Réseaux Informatiques** | 🌐 **Futur Administrateur Réseau & Spécialiste en Sécurité des Réseaux** | 🤟 **Interprète en Langue des Signes** | 🚀 **Entrepreneur**
+🎓 **Licencié en Réseaux Informatiques** | 🌐 **Futur Administrateur Réseau & Spécialiste en Sécurité des Réseaux** |  **Interprète en Langue des Signes** | 🚀 **Entrepreneur**
 
 Bienvenue sur mon profil GitHub ! Je suis passionné par les réseaux informatiques, l'administration des systèmes et réseaux, la cybersécurité et l'utilisation des technologies pour créer un impact positif dans la communauté. J'aime apprendre, développer des solutions innovantes et contribuer à des projets qui améliorent la vie des autres.
 
 ---
 
-# 🚀 À propos de moi
+#  À propos de moi
 
 * 🎓 Titulaire d'une Licence en Réseaux Informatiques
 * 🌐 Passionné par l'administration des réseaux et la sécurité informatique
@@ -19,7 +19,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par les réseaux informatiq
 
 ---
 
-# 🛠️ Compétences techniques
+#  Compétences techniques
 
 ### Réseaux informatiques
 
