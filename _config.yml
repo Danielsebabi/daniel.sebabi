@@ -4,15 +4,3 @@ description: "Portfolio Administrateur réseau informatique"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
-body {
-    background-color: #0d1117;
-    color: white;
-}
-
-a {
-    color: #58a6ff;
-}
-
-header {
-    background-color: #161b22;
-}
