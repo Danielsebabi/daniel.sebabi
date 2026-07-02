@@ -56,8 +56,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par les réseaux informatiq
 
 Projet académique portant sur l'intégration d'une solution VoIP avec un système CRM afin d'automatiser le suivi des appels et la gestion des clients.
 
-🔗 Dépôt GitHub : [Ajouter le lien]
-📄 Documentation : [Ajouter le lien]
+🔗 Dépôt GitHub : https://danielsebabi.github.io/daniel.sebabi/
 
 ---
 
@@ -65,7 +64,6 @@ Projet académique portant sur l'intégration d'une solution VoIP avec un systè
 
 Travaux pratiques et simulations d'administration réseau réalisés avec des technologies Cisco.
 
-🔗 Dépôt GitHub : [Ajouter le lien]
 
 ---
 
@@ -73,7 +71,6 @@ Travaux pratiques et simulations d'administration réseau réalisés avec des te
 
 Configurations réseau, dépannage, administration des systèmes et sécurité informatique.
 
-🔗 Dépôt GitHub : [Ajouter le lien]
 
 ---
 
@@ -90,7 +87,7 @@ Configurations réseau, dépannage, administration des systèmes et sécurité i
 
 📎 Télécharger mon CV professionnel :
 
-🔗 CV PDF : [Ajouter le lien vers votre CV]
+🔗 CV PDF : https://drive.google.com/file/d/14aZtb9gXcaiiwBdgdSV_eeZV-zJW4l71/view?usp=sharing
 
 ---
 
@@ -100,7 +97,8 @@ Configurations réseau, dépannage, administration des systèmes et sécurité i
 
 📧 Email : [danielsebabi07@gmail.com](mailto:danielsebabi07@gmail.com)
 
-🐙 GitHub : [Ajouter votre profil GitHub]
+🐙 GitHub : https://danielsebabi.github.io/daniel.sebabi/
+
 
 ---
 
@@ -110,4 +108,4 @@ Mon objectif est de devenir un excellent **Administrateur Réseau et spécialist
 
 > *"La technologie est plus puissante lorsqu'elle crée des opportunités et améliore la vie des communautés."*
 
-⭐ Merci de visiter mon profil GitHub !
+⭐ Merci de visiter mon profil  !
